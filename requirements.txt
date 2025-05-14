@@ -1,0 +1,20 @@
+imageio
+ipython
+matplotlib
+opencv-python
+PyYAML
+scikit-learn
+scipy
+tqdm
+typing
+terminaltables
+Pillow
+# onnxruntime
+setuptools
+timm~=0.3.2
+easydict
+attr
+thop
+mmcv=1.7.0
+paddleocr
+pycocotools
